@@ -1,0 +1,328 @@
+# Translation of Themes - Twenty Fifteen in French (France)
+# This file is distributed under the same license as the Themes - Twenty Fifteen package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-05-04 10:21:42+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: fr\n"
+"Project-Id-Version: Themes - Twenty Fifteen\n"
+
+#: functions.php:245
+msgid "Light Blue"
+msgstr "Bleu clair"
+
+#: functions.php:240
+msgid "Bright Blue"
+msgstr "Bleu brillant"
+
+#: functions.php:195
+msgid "Light Gray"
+msgstr "Gris clair"
+
+#: functions.php:190
+msgid "Dark Gray"
+msgstr "Gris foncé"
+
+#: functions.php:210
+msgid "Dark Brown"
+msgstr "Marron foncé"
+
+#: functions.php:200
+msgid "White"
+msgstr "Blanc"
+
+#: functions.php:220
+msgid "Light Pink"
+msgstr "Rose clair"
+
+#: functions.php:215
+msgid "Medium Pink"
+msgstr "Rose moyen"
+
+#: functions.php:235
+msgid "Blue Gray"
+msgstr "Gris bleu"
+
+#: functions.php:225
+msgid "Dark Purple"
+msgstr "Violet foncé"
+
+#. translators: %s: Post title.
+#: comments.php:31
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Une réflexion sur « %s »"
+
+#. translators: %s: Post title.
+#: inc/template-tags.php:132
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Laisser un commentaire<span class=\"screen-reader-text\"> sur %s</span>"
+
+#: single.php:39
+msgid "Previous post:"
+msgstr "Article précédent&nbsp;:"
+
+#: single.php:38
+msgid "Previous"
+msgstr "Précédent"
+
+#: single.php:36
+msgid "Next post:"
+msgstr "Article suivant&nbsp;:"
+
+#: single.php:35
+msgid "Next"
+msgstr "Suivant"
+
+#. translators: %s: Search query.
+#: search.php:21
+msgid "Search Results for: %s"
+msgstr "Résultats de recherche pour %s"
+
+#: inc/template-tags.php:122
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "Taille réelle"
+
+#: inc/template-tags.php:110
+msgctxt "Used before tag names."
+msgid "Tags"
+msgstr "Mots-clés"
+
+#: inc/template-tags.php:101
+msgctxt "Used before category names."
+msgid "Categories"
+msgstr "Catégories"
+
+#: inc/template-tags.php:97 inc/template-tags.php:106
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:91
+msgctxt "Used before post author name."
+msgid "Author"
+msgstr "Auteur"
+
+#: inc/template-tags.php:81
+msgctxt "Used before publish date."
+msgid "Posted on"
+msgstr "Publié le"
+
+#: inc/template-tags.php:58
+msgctxt "Used before post format."
+msgid "Format"
+msgstr "Format"
+
+#: inc/template-tags.php:51
+msgid "Featured"
+msgstr "Mis en avant"
+
+#: inc/template-tags.php:31
+msgid "Newer Comments"
+msgstr "Commentaires plus récents"
+
+#: inc/template-tags.php:26
+msgid "Older Comments"
+msgstr "Commentaires plus anciens"
+
+#: inc/template-tags.php:23
+msgid "Comment navigation"
+msgstr "Navigation des commentaires"
+
+#: inc/customizer.php:239
+msgid "Blue"
+msgstr "Bleu"
+
+#: functions.php:230 inc/customizer.php:228
+msgid "Purple"
+msgstr "Violet"
+
+#: inc/customizer.php:217
+msgid "Pink"
+msgstr "Rose"
+
+#: functions.php:205 inc/customizer.php:206
+msgid "Yellow"
+msgstr "Jaune"
+
+#: inc/customizer.php:195
+msgid "Dark"
+msgstr "Sombre"
+
+#: inc/customizer.php:184
+msgid "Default"
+msgstr "Valeur par défaut"
+
+#: inc/customizer.php:103
+msgid "Header and Sidebar Background Color"
+msgstr "Couleur de fond de l'en-tête et de la barre latérale"
+
+#: inc/customizer.php:79 inc/customizer.php:104 inc/customizer.php:111
+msgid "Applied to the header on small screens and the sidebar on wide screens."
+msgstr "Appliqué à l'en-tête sur les petits écrans, et à la barre latérale sur les grands écrans."
+
+#: inc/customizer.php:78
+msgid "Header and Sidebar Text Color"
+msgstr "Couleur du texte de l'en-tête et le barre latérale"
+
+#: inc/customizer.php:55
+msgid "Base Color Scheme"
+msgstr "Jeu de couleurs de base"
+
+#. translators: %s: WordPress version.
+#: inc/back-compat.php:38 inc/back-compat.php:50 inc/back-compat.php:67
+msgid "Twenty Fifteen requires at least WordPress version 4.1. You are running version %s. Please upgrade and try again."
+msgstr "Twenty Fifteen ne fonctionne qu'à partir de WordPress 4.1. Vous utilisez la version %s. Veuillez mettre à jour et réessayer."
+
+#: image.php:88
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">Publié dans</span><span class=\"post-title\">%title</span>"
+
+#: image.php:25
+msgid "Next Image"
+msgstr "Image suivante"
+
+#: image.php:25
+msgid "Previous Image"
+msgstr "Image précédente"
+
+#: header.php:50
+msgid "Menu and widgets"
+msgstr "Menu et widgets"
+
+#: header.php:27
+msgid "Skip to content"
+msgstr "Aller au contenu"
+
+#: functions.php:402
+msgid "collapse child menu"
+msgstr "fermer le sous-menu"
+
+#: functions.php:401
+msgid "expand child menu"
+msgstr "ouvrir le sous-menu"
+
+#: functions.php:321
+msgctxt "Add new subset (greek, cyrillic, devanagari, vietnamese)"
+msgid "no-subset"
+msgstr "no-subset"
+
+#: functions.php:313
+msgctxt "Inconsolata font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:305
+msgctxt "Noto Serif font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:297
+msgctxt "Noto Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:270
+msgid "Add widgets here to appear in your sidebar."
+msgstr "Ajoutez des widgets ici afin qu'ils apparaissent dans votre barre latérale."
+
+#: functions.php:268
+msgid "Widget Area"
+msgstr "Zone de widgets"
+
+#: functions.php:87
+msgid "Social Links Menu"
+msgstr "Menu des liens de réseaux sociaux"
+
+#: functions.php:86
+msgid "Primary Menu"
+msgstr "Menu principal"
+
+#. translators: %s: WordPress
+#: footer.php:33
+msgid "Proudly powered by %s"
+msgstr "Fièrement propulsé par %s"
+
+#: content-none.php:36
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Il semblerait que nous ne soyons pas en mesure de trouver votre contenu. Essayez en lançant une recherche."
+
+#: content-none.php:31
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Désolé, mais rien ne correspond à votre recherche. Veuillez réessayer avec des mots différents."
+
+#. translators: %s: Post editor URL.
+#: content-none.php:25
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr "Prêt·e à publier votre premier article ? <a href=\"%s\">Lancez-vous ici</a>."
+
+#: content-none.php:15
+msgid "Nothing Found"
+msgstr "Rien de trouvé"
+
+#: content-link.php:60 content.php:61 image.php:74 content-search.php:28
+#: content-search.php:33 content-page.php:37
+msgid "Edit"
+msgstr "Modifier"
+
+#: content-link.php:39 content.php:41 image.php:61 content-page.php:26
+msgid "Pages:"
+msgstr "Pages&nbsp;:"
+
+#. translators: %s: Post title.
+#: content-link.php:32 content.php:34 inc/template-tags.php:252
+msgid "Continue reading %s"
+msgstr "Continuer la lecture de %s"
+
+#: comments.php:71
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés."
+
+#. translators: 1: Number of comments, 2: Post title.
+#: comments.php:35
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s réflexion au sujet de « %2$s »"
+msgstr[1] "%1$s réflexions au sujet de « %2$s »"
+
+#. translators: %s: Author display name.
+#: author-bio.php:36
+msgid "View all posts by %s"
+msgstr "Afficher tous les articles par %s"
+
+#: author-bio.php:12
+msgid "Published by"
+msgstr "Publié par"
+
+#: content-link.php:43 index.php:50 content.php:45 archive.php:53 search.php:48
+#: image.php:65 content-page.php:30
+msgid "Page"
+msgstr "Page"
+
+#: index.php:49 archive.php:52 search.php:47
+msgid "Next page"
+msgstr "Page suivante"
+
+#: index.php:48 archive.php:51 search.php:46
+msgid "Previous page"
+msgstr "Page précédente"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Apparemment, rien n&rsquo;a été trouvé à cette adresse. Essayez avec recherche&nbsp;?"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oups&nbsp;! Cette page est introuvable."
+
+#. Author URI of the theme
+#: footer.php:30
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
